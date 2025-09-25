@@ -11,7 +11,7 @@ Repository ini berisi hasil praktikum 1 mata kuliah **Pemrograman Web** di Unive
 - Repository digunakan untuk menyimpan semua file praktikum.  
 
 📸 **Screenshot:**  
-![Screenshot Repo](<img width="1920" height="1200" alt="Screenshot 2025-09-25 164143" src="https://github.com/user-attachments/assets/c3bbe833-19ae-4600-a74d-6b005ea098a7" />
+(<img width="1920" height="1200" alt="Screenshot 2025-09-25 164143" src="https://github.com/user-attachments/assets/c3bbe833-19ae-4600-a74d-6b005ea098a7" />
 )
 
 ---
