@@ -11,8 +11,8 @@ Repository ini berisi hasil praktikum 1 mata kuliah **Pemrograman Web** di Unive
 - Repository digunakan untuk menyimpan semua file praktikum.  
 
 📸 **Screenshot:**  
-(<img width="1920" height="1200" alt="Screenshot 2025-09-25 164143" src="https://github.com/user-attachments/assets/c3bbe833-19ae-4600-a74d-6b005ea098a7" />
-)
+<img width="1920" height="1200" alt="Screenshot 2025-09-25 164143" src="https://github.com/user-attachments/assets/c3bbe833-19ae-4600-a74d-6b005ea098a7" />
+
 
 ---
 
@@ -20,8 +20,8 @@ Repository ini berisi hasil praktikum 1 mata kuliah **Pemrograman Web** di Unive
 - Membuat file `lab1_tag_dasar.html` dengan struktur HTML standar.  
 
 📸 **Screenshot:**  
-![Screenshot HTML Dasar](<img width="1920" height="1200" alt="Screenshot 2025-09-25 164326" src="https://github.com/user-attachments/assets/c11893a7-80c2-4ff9-b7a4-8a2a0d600979" />
-)
+<img width="1920" height="1200" alt="Screenshot 2025-09-25 164326" src="https://github.com/user-attachments/assets/c11893a7-80c2-4ff9-b7a4-8a2a0d600979" />
+
 
 ---
 
@@ -30,8 +30,8 @@ Repository ini berisi hasil praktikum 1 mata kuliah **Pemrograman Web** di Unive
 - Menggunakan atribut `align` (center, right, left, justify).  
 
 📸 **Screenshot:**  
-![Screenshot Paragraf](<img width="917" height="489" alt="Screenshot 2025-09-25 165150" src="https://github.com/user-attachments/assets/4f58cb3c-98df-4734-8a94-c4719ee9283c" />
-)
+<img width="917" height="489" alt="Screenshot 2025-09-25 165150" src="https://github.com/user-attachments/assets/4f58cb3c-98df-4734-8a94-c4719ee9283c" />
+
 
 ---
 
@@ -39,8 +39,8 @@ Repository ini berisi hasil praktikum 1 mata kuliah **Pemrograman Web** di Unive
 - Menambahkan judul `<h1>` dan subjudul `<h2>`.  
 
 📸 **Screenshot:**  
-![Screenshot Judul](<img width="765" height="369" alt="Screenshot 2025-09-25 165343" src="https://github.com/user-attachments/assets/e52c2b83-94e2-4cdc-9a14-4cbcff6adafb" />
-)
+<img width="765" height="369" alt="Screenshot 2025-09-25 165343" src="https://github.com/user-attachments/assets/e52c2b83-94e2-4cdc-9a14-4cbcff6adafb" />
+
 
 ---
 
@@ -48,8 +48,8 @@ Repository ini berisi hasil praktikum 1 mata kuliah **Pemrograman Web** di Unive
 - Menggunakan tag `<b>`, `<i>`, `<mark>`, `<sub>`, `<sup>`.  
 
 📸 **Screenshot:**  
-![Screenshot Format Teks](<img width="783" height="199" alt="Screenshot 2025-09-25 165458" src="https://github.com/user-attachments/assets/9e09c039-91da-40a7-8ac6-878a79609813" />
-)
+<img width="783" height="199" alt="Screenshot 2025-09-25 165458" src="https://github.com/user-attachments/assets/9e09c039-91da-40a7-8ac6-878a79609813" />
+
 
 ---
 
@@ -57,8 +57,8 @@ Repository ini berisi hasil praktikum 1 mata kuliah **Pemrograman Web** di Unive
 - Menambahkan gambar menggunakan tag `<img>` dengan atribut `src`, `width`, `alt`, dan `title`.  
 
 📸 **Screenshot:**  
-![Screenshot Gambar](<img width="1258" height="263" alt="Screenshot 2025-09-25 170134" src="https://github.com/user-attachments/assets/f180d269-f68e-41d7-8fb3-afc788b13b20" />
-)
+<img width="1258" height="263" alt="Screenshot 2025-09-25 170134" src="https://github.com/user-attachments/assets/f180d269-f68e-41d7-8fb3-afc788b13b20" />
+
 
 ---
 
@@ -66,8 +66,8 @@ Repository ini berisi hasil praktikum 1 mata kuliah **Pemrograman Web** di Unive
 - Membuat navigasi link ke halaman lain (`lab1_halaman2.html`) dan link eksternal (Google).
 
 📸 **Screenshot:**  
-![Screenshot Hyperlink](<img width="805" height="224" alt="Screenshot 2025-09-25 170456" src="https://github.com/user-attachments/assets/0bd540c6-d706-403f-8ac6-86cbc3d277db" />
-)
+<img width="805" height="224" alt="Screenshot 2025-09-25 170456" src="https://github.com/user-attachments/assets/0bd540c6-d706-403f-8ac6-86cbc3d277db" />
+
 <img width="1920" height="1200" alt="Screenshot 2025-09-25 162019" src="https://github.com/user-attachments/assets/475ee415-a26e-4a94-9fa4-1dd3b4b6db5a" />
 
 ---
@@ -76,8 +76,8 @@ Repository ini berisi hasil praktikum 1 mata kuliah **Pemrograman Web** di Unive
 - Membuat file `lab1_halaman2.html` dengan isi sederhana.  
 
 📸 **Screenshot:**  
-![Screenshot Halaman 2](<img width="1920" height="1200" alt="Screenshot 2025-09-25 162809" src="https://github.com/user-attachments/assets/a10fc74c-8572-4d22-b595-7b873b2edbd7" />
-)
+<img width="1920" height="1200" alt="Screenshot 2025-09-25 162809" src="https://github.com/user-attachments/assets/a10fc74c-8572-4d22-b595-7b873b2edbd7" />
+
 
 ---
 
