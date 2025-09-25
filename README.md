@@ -57,15 +57,18 @@ Repository ini berisi hasil praktikum 1 mata kuliah **Pemrograman Web** di Unive
 - Menambahkan gambar menggunakan tag `<img>` dengan atribut `src`, `width`, `alt`, dan `title`.  
 
 📸 **Screenshot:**  
-![Screenshot Gambar](img/screenshot_gambar.png)
+![Screenshot Gambar](<img width="1258" height="263" alt="Screenshot 2025-09-25 170134" src="https://github.com/user-attachments/assets/f180d269-f68e-41d7-8fb3-afc788b13b20" />
+)
 
 ---
 
 ### 7. Menambahkan Hyperlink
-- Membuat navigasi link ke halaman lain (`lab1_halaman2.html`) dan link eksternal (Google).  
+- Membuat navigasi link ke halaman lain (`lab1_halaman2.html`) dan link eksternal (Google).
 
 📸 **Screenshot:**  
-![Screenshot Hyperlink](img/screenshot_hyperlink.png)
+![Screenshot Hyperlink](<img width="805" height="224" alt="Screenshot 2025-09-25 170456" src="https://github.com/user-attachments/assets/0bd540c6-d706-403f-8ac6-86cbc3d277db" />
+)
+<img width="1920" height="1200" alt="Screenshot 2025-09-25 162019" src="https://github.com/user-attachments/assets/475ee415-a26e-4a94-9fa4-1dd3b4b6db5a" />
 
 ---
 
@@ -73,7 +76,8 @@ Repository ini berisi hasil praktikum 1 mata kuliah **Pemrograman Web** di Unive
 - Membuat file `lab1_halaman2.html` dengan isi sederhana.  
 
 📸 **Screenshot:**  
-![Screenshot Halaman 2](img/screenshot_halaman2.png)
+![Screenshot Halaman 2](<img width="1920" height="1200" alt="Screenshot 2025-09-25 162809" src="https://github.com/user-attachments/assets/a10fc74c-8572-4d22-b595-7b873b2edbd7" />
+)
 
 ---
 
