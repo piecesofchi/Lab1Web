@@ -11,7 +11,8 @@ Repository ini berisi hasil praktikum 1 mata kuliah **Pemrograman Web** di Unive
 - Repository digunakan untuk menyimpan semua file praktikum.  
 
 📸 **Screenshot:**  
-![Screenshot Repo](img/screenshot_repo.png)
+![Screenshot Repo](<img width="1920" height="1200" alt="Screenshot 2025-09-25 164143" src="https://github.com/user-attachments/assets/c3bbe833-19ae-4600-a74d-6b005ea098a7" />
+)
 
 ---
 
@@ -19,7 +20,8 @@ Repository ini berisi hasil praktikum 1 mata kuliah **Pemrograman Web** di Unive
 - Membuat file `lab1_tag_dasar.html` dengan struktur HTML standar.  
 
 📸 **Screenshot:**  
-![Screenshot HTML Dasar](img/screenshot_html_dasar.png)
+![Screenshot HTML Dasar](<img width="1920" height="1200" alt="Screenshot 2025-09-25 164326" src="https://github.com/user-attachments/assets/c11893a7-80c2-4ff9-b7a4-8a2a0d600979" />
+)
 
 ---
 
@@ -28,7 +30,8 @@ Repository ini berisi hasil praktikum 1 mata kuliah **Pemrograman Web** di Unive
 - Menggunakan atribut `align` (center, right, left, justify).  
 
 📸 **Screenshot:**  
-![Screenshot Paragraf](img/screenshot_paragraf.png)
+![Screenshot Paragraf](<img width="917" height="489" alt="Screenshot 2025-09-25 165150" src="https://github.com/user-attachments/assets/4f58cb3c-98df-4734-8a94-c4719ee9283c" />
+)
 
 ---
 
@@ -36,7 +39,8 @@ Repository ini berisi hasil praktikum 1 mata kuliah **Pemrograman Web** di Unive
 - Menambahkan judul `<h1>` dan subjudul `<h2>`.  
 
 📸 **Screenshot:**  
-![Screenshot Judul](img/screenshot_judul.png)
+![Screenshot Judul](<img width="765" height="369" alt="Screenshot 2025-09-25 165343" src="https://github.com/user-attachments/assets/e52c2b83-94e2-4cdc-9a14-4cbcff6adafb" />
+)
 
 ---
 
@@ -44,7 +48,8 @@ Repository ini berisi hasil praktikum 1 mata kuliah **Pemrograman Web** di Unive
 - Menggunakan tag `<b>`, `<i>`, `<mark>`, `<sub>`, `<sup>`.  
 
 📸 **Screenshot:**  
-![Screenshot Format Teks](img/screenshot_format_teks.png)
+![Screenshot Format Teks](<img width="783" height="199" alt="Screenshot 2025-09-25 165458" src="https://github.com/user-attachments/assets/9e09c039-91da-40a7-8ac6-878a79609813" />
+)
 
 ---
 
@@ -94,9 +99,3 @@ Kalau keduanya diisi sembarangan, gambar bisa jadi gepeng/terdistorsi.
 - `_self` → buka di tab yang sama (default)  
 - `_top` → buka di jendela utama (hilangkan frame)  
 - `_parent` → buka di frame induk (kalau ada iframe)
-
----
-
-✍️ **Catatan:**  
-- Ganti setiap `img/screenshot_xxx.png` dengan screenshot asli hasil praktikum kamu.  
-- Kalau belum bikin folder `img`, buat dulu lalu upload semua screenshot ke situ.
